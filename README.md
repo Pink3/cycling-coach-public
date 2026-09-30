@@ -68,6 +68,12 @@ python3 skill/scripts/fetch_icu.py --days 7
 | `cycling-coach/skill/` | 发布形态（源码） | Git 管理，可归档/分享 |
 | `~/.doubao/agent_mode/workspace/.user_skills/doubao-cycling-coach/` | 部署形态（运行时） | 定时任务引用；技能迭代后用 `cp -r skill/ <运行时路径>/` 同步 |
 
+## cycling-coach 使用教程
+
+（详见 [user-guide.md](/docs/user-guide.md)）
+
+[docs/user-guide.md](https://github.com/Pink3/cycling-coach-public/blob/main/docs/user-guide.md)
+
 ## 版本
 
 当前版本：v1.0.0（详见 [CHANGELOG.md](CHANGELOG.md)）
