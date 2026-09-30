@@ -1,0 +1,4 @@
+# PushPlus token 模板（复制为 ~/.config/cycling_coach/pushplus_token）
+# 获取：https://www.pushplus.plus/ 注册后首页查看
+# 注意：此文件只是模板，不要写入真实 token；真实 token 仅存本地配置（权限 600）
+YOUR_PUSHPLUS_TOKEN

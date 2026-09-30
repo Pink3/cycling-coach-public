@@ -1,0 +1,15 @@
+# Intervals.icu API key 配置模板
+#
+# 1. 在 intervals.icu → Settings → Developer Settings 点击 Generate API key
+# 2. 复制生成的 key，替换下方 <YOUR_API_KEY> 占位符
+# 3. 将本文件复制为 ~/.config/intervals_icu/api_key 并 chmod 600：
+#
+#     cp api_key.example ~/.config/intervals_icu/api_key
+#     chmod 600 ~/.config/intervals_icu/api_key
+#
+# 安全要求：
+# - 真实 key 绝不提交到 Git、聊天记录或任何分享文件
+# - 认证方式：HTTP Basic，用户名固定为 API_KEY，密码为 key
+# - 丢失/泄露后请在 Intervals.icu Developer Settings 重新生成
+
+<YOUR_API_KEY>
