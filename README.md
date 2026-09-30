@@ -75,7 +75,7 @@ python3 skill/scripts/fetch_icu.py --days 7
 
 ## 版本
 
-当前版本：v1.0.0（详见 [CHANGELOG.md](CHANGELOG.md)）
+当前版本：v1.6.3（详见 [CHANGELOG.md](CHANGELOG.md)）
 
 ## 许可
 
